@@ -35,5 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 here is my digital art project that i worked on. its pretty cool go check it out!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/apmvGn8XNLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+digital art i am working on for my favorite game "titanfall 2"
+![titanfall art](images/pulse blade female.jpg)
