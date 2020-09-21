@@ -35,4 +35,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-<iframe src="https://giphy.com/embed/eLpO6JFWmTximd6608" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justviralnet-funny-dog-animals-eLpO6JFWmTximd6608">via GIPHY</a></p>
+here is my digital art project that i worked on. its pretty cool go check it out!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/apmvGn8XNLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
