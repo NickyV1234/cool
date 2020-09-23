@@ -78,20 +78,6 @@ Painters crossing
 (710) 762-7460
 Job description: Helped maintain decks and trimmed windows. Taking down plywood exterior for decks and putting on a hardy plank exterior. Made precise cuts for Azek to trim for windows. Operated several power tools including nail gun, table saw, chop saw, hand saw… etc.  
 
-# MY ART EXPERIENCE 
-ever since i was in highschool I have been working on tuning my skill with art that I have had ever since I was young. I took numorous art classes in highschool as well as in college. My strong suit with physical art definitely comes from my ability to work with graphite. here are some of the images I have drawn with it
-# Graphite Drawings
-## This is a portrait i did of my two most favorite characters from the walking dead!
-![image](20200923_125836.jpg)
-![image](20200923_125815.jpg)
-## Here is a graphite drawing of Dave Grohl lead singer of Foo Fighters
-![image](20200923_125825.jpg)
-
-# DITITAL ART
-I one day to use my skills to work on designing video games. To show how dedicated I am to this I am currently in the process of drawing art for my favorite video game "titanfall 2" designed by respawn entertainment who is the video game producer who I wish to work for. 
-## here are some drawings of in game female models I did 
-![image](female grapple pilot.jpg)
-![image](female pulse final.jpg)
 
 pages < [1](index.md) , [2](index2.md) >
 
