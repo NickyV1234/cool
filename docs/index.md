@@ -81,6 +81,8 @@ Job description: Helped maintain decks and trimmed windows. Taking down plywood 
 # MY ART EXPERIENCE 
 ever since i was in highschool I have been working on tuning my skill with art that I have had ever since I was young. I took numorous art classes in highschool as well as in college. My strong suit with physical art definitely comes from my ability to work with graphite. here are some of the images I have drawn with it
 # Graphite Drawings
-## This is a portrait i did of my two most favorite characters from the walking dead
-(image/20200923_125836.jpg)
-(image/20200923_125815.jpg)
+## This is a portrait i did of my two most favorite characters from the walking dead!
+![image](20200923_125836.jpg)
+![image](20200923_125815.jpg)
+## Here is a graphite drawing of Dave Grohl lead singer of Foo Fighters
+![image](20200923_125825.jpgP)
