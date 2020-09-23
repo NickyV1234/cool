@@ -85,4 +85,4 @@ ever since i was in highschool I have been working on tuning my skill with art t
 ![image](20200923_125836.jpg)
 ![image](20200923_125815.jpg)
 ## Here is a graphite drawing of Dave Grohl lead singer of Foo Fighters
-![image](20200923_125825.jpgP)
+![image](20200923_125825.jpg)
