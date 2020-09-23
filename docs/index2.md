@@ -13,5 +13,5 @@ I one day to use my skills to work on designing video games. To show how dedicat
 ![image](female grapple pilot.jpg)
 ![image](female pulse final.jpg)
 
-pages < [1](index.md) , [2](index2.md) >
+pages < [1](index.md) , [2](index2.md) , [3](index3.md) >
 
