@@ -90,6 +90,6 @@ ever since i was in highschool I have been working on tuning my skill with art t
 # DITITAL ART
 I one day to use my skills to work on designing video games. To show how dedicated I am to this I am currently in the process of drawing art for my favorite video game "titanfall 2" designed by respawn entertainment who is the video game producer who I wish to work for. 
 ## here are some drawings of in game female models I did 
-![image](pulse blade female.jpg)
+![image](female grapple pilot.jpg)
 ![image](female pulse final.jpg)
 
