@@ -93,3 +93,5 @@ I one day to use my skills to work on designing video games. To show how dedicat
 ![image](female grapple pilot.jpg)
 ![image](female pulse final.jpg)
 
+[hey cool another page!](index2.md)
+
