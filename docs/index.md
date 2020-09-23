@@ -79,5 +79,5 @@ Painters crossing
 Job description: Helped maintain decks and trimmed windows. Taking down plywood exterior for decks and putting on a hardy plank exterior. Made precise cuts for Azek to trim for windows. Operated several power tools including nail gun, table saw, chop saw, hand saw… etc.  
 
 
-pages < [1](index.md) , [2](index2.md) >
+pages < [1](index.md) , [2](index2.md) , [3](index3.md) >
 
