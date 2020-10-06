@@ -13,6 +13,8 @@ I one day to use my skills to work on designing video games. To show how dedicat
 ## here are some drawings of in game female models I did 
 ![image](female grapple pilot.jpg)
 ![image](female pulse final.jpg)
+## male in game model escaping battlefield
+![image](Untitled-1 (3).jpg)
 
 pages < [1](index.md) , [2](index2.md) , [3](index3.md) , [4](index4.md) >
 
