@@ -114,8 +114,6 @@ Job description:
 
 
 
-[here is the link to the corpus assignment](index5.md) [Here is the time mapper assignment](index6.md) , [here is a link to the frankenstein variorum assignment](variorum.md) [here is the game review assignment](index7.md)
-
 # LINKEDIN 
 [here is my link to my linked in](https://www.linkedin.com/in/nickycoollink/) 
 
