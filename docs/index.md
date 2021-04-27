@@ -1,4 +1,6 @@
 
+                                                                    ![image](22370.jpeg)
+
 Nicholas P Versagli
 
 Email: npv4@psu.edu          Phone: (484) 356-3878         112 Ellicott Rd. Avondale PA 19311
