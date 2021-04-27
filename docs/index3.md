@@ -1,4 +1,4 @@
-#About Me
+# About Me
 Hello! My name is Nicholas Paul Versagli and I am currently a Penn State college student in the Digit program at the Behrend campus. My entire Life I have enjoyed 2 things above anything else. Art and Video games. I am striving to become a digital designer for my favorite video game company "Respawn Entertainment" which is why I have enrolled in the digit program here at Behrend. I am also an aspiring comic book artist. I have even gone as far to publicate my own series on webtoons.
 
 ### Publications
