@@ -3,7 +3,7 @@ Nicholas P Versagli
 
 Email: npv4@psu.edu          Phone: (484) 356-3878         112 Ellicott Rd. Avondale PA 19311
  ____________________________________________________________________________                                                                                                                                                                          
-# Education
+## Education
 Pennsylvania State University Behrend                                                                          
 4701 College Dr, Erie, PA 16563                                                                                     graduation: 2022
 Intended major: Digital Humanities 											
