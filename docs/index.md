@@ -119,6 +119,10 @@ Job description:
 # LINKEDIN 
 [here is my link to my linked in](https://www.linkedin.com/in/nickycoollink/) 
 
+# TEXT ANALYSIS PROJECT
+
+[here is a project that I did for DIGT 210 where I analayzed several blues songs to look for patterns or any other note worthy things](https://am0eba-byte.github.io/blues/)
+
 
 pages < [1](index.md) , [2](index2.md) , [3](index3.md) , [4](index4.md) >
 
