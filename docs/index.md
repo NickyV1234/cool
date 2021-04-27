@@ -3,7 +3,7 @@ Nicholas P Versagli
 
 Email: npv4@psu.edu          Phone: (484) 356-3878         112 Ellicott Rd. Avondale PA 19311
  ____________________________________________________________________________                                                                                                                                                                          
-Education
+#Education
 Pennsylvania State University Behrend                                                                          
 4701 College Dr, Erie, PA 16563                                                                                     graduation: 2022
 Intended major: Digital Humanities 											
@@ -20,7 +20,7 @@ General Qualifications
 
 •	Good at mathematics 
 
-Volunteer work
+#volunteer work
 Annual Mushroom Festival 
 Kennet Square PA 
 Postal code: 19350
@@ -41,7 +41,7 @@ Activities participated in
 
 •	Video game club 
 
-Employment
+#Employment
 Hockessin Acme deli                                                                             June 2017 - January 2021        
 128 Lantana Dr. Hockessin De
 Postal code: 19707
@@ -70,15 +70,15 @@ Job description:
 
 •	Carried large pieces of wood to dumpster
 
-Academic experience
+##Academic experience
 
-Math 140+141
+#Math 140+141
 
 •	Derivatives and integrals
 
 •	Limits of functions
 
-Art 168+101
+#Art 168+101
 
 •	Worked with Adobe Photoshop, Illustrator, Premiere, and After Effects
 
@@ -87,13 +87,13 @@ Art 168+101
 
 •	Learned dimensionality and proportions and their relation to distance and perspective
 
-FIN 300
+#FIN 300
 
 •	Worked in groups to help study finances and make a group presentation
 
 •	Study economy
 
-Game 250
+#Game 250
 
 •	Created AI behavior 
 
@@ -101,7 +101,7 @@ Game 250
 
 •	Learned how to use and navigate unreal engine.
 
-Digit 297+ game 420
+#Digit 297+ game 420
 
 •	Learned how to design a game
 
