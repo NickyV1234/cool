@@ -9,10 +9,15 @@ Pennsylvania State University Behrend
 Intended major: Digital Humanities 											
 General Qualifications
 •	Know how to use unreal engine (4.25.4)
+
 •	Proficient knowledge of digital art apps (Photoshop, Illustrator, Affinity)
+
 •	Strong knowledge of drawing anatomy
+
 •	Work well in groups
+
 •	Can create art with several types of mediums
+
 •	Good at mathematics 
 
 Volunteer work
