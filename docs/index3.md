@@ -15,6 +15,12 @@ here is my digital art project that i worked on. for art 168.
 
 pages < [1](index.md) , [2](index2.md) , [3](index3.md) , [4](index4.md) >
 
+### TEXT ANALYSIS PROJECT
+
+[here is a project that I did for DIGT 210 where I analayzed several blues songs to look for patterns or any other note worthy things](https://am0eba-byte.github.io/blues/)
+
+
+
 ### other side projects
 
 [here is the link to the corpus assignment](index5.md) [Here is the time mapper assignment](index6.md) , [here is a link to the frankenstein variorum assignment](variorum.md) [here is the game review assignment](index7.md)
