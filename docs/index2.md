@@ -18,6 +18,8 @@ I one day to use my skills to work on designing video games. To show how dedicat
 
 
  <img src="sarah2.jpg" width="300" height="300">  <img src="Untitled-1 (11).jpg" width="300" height="300"> <img src="Untitled-1 (13).jpg" width="300" height="300">
+ <img src="Untitled-1 (10).jpg" width="300" height="300"> <img src="Untitled-1 (20).jpg" width="300" height="300"> <img src="hotgirl.jpg" width="300" height="300"> 
+ <img src="Untitled-1 (19).jpg" width="300" height="300"> <img src="bromomento.jpg" width="300" height="300"> <img src="femalepulsestreamdrawingedit.jpg" width="300" height="300"> <img src="doodlenew.jpg" width="300" height="300"> 
 
 pages < [1](index.md) , [2](index2.md) , [3](index3.md) , [4](index4.md) >
 
