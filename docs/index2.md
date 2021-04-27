@@ -17,7 +17,7 @@ I one day to use my skills to work on designing video games. To show how dedicat
 ![image](Untitled-1 (3).jpg)
 
 
- <img src="sarah2.jpg" width="100" height="100">
+ <img src="sarah2.jpg" width="300" height="300">
 
 pages < [1](index.md) , [2](index2.md) , [3](index3.md) , [4](index4.md) >
 
