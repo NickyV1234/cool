@@ -8,7 +8,7 @@ Pennsylvania State University Behrend
 4701 College Dr, Erie, PA 16563                                                                                     graduation: 2022
 Intended major: Digital Humanities 											
 General Qualifications
- •	Know how to use unreal engine (4.25.4)
+    •	Know how to use unreal engine (4.25.4)
 
  •	Proficient knowledge of digital art apps (Photoshop, Illustrator, Affinity)
 
