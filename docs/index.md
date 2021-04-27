@@ -10,9 +10,9 @@ Intended major: Digital Humanities
 General Qualifications
     •	Know how to use unreal engine (4.25.4)
 
- •	Proficient knowledge of digital art apps (Photoshop, Illustrator, Affinity)
+   •	Proficient knowledge of digital art apps (Photoshop, Illustrator, Affinity)
 
- •	Strong knowledge of drawing anatomy
+   •	Strong knowledge of drawing anatomy
 
  •	Work well in groups
 
