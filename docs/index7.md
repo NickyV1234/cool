@@ -19,14 +19,16 @@ You dont really get to know the female protagonist of the story, all you really 
 There really are no npc characters in this story.
 The game heavily relies on you being able to figure things out for yourself. There really are no tips on what you can do. All you are really given is a map. And control tips.
 There are save checkpoints and doors that you can interact with in the demo
+
 ![image](zordak2.jpg)
+
 The game from what i saw was extremely limited and so subliminal commentary or higher meaning becomes too vague and non existent for the most part.
 
 Zordak review: 
   So upon revisiting the game I made much more progress with the game than i did last time. Last time I failed to realize an interactable part of the terrain that would lead me to the next part of the map. I will say that the thing about this that I dont like is that the sprite that I was able to interact with had no indication whatsoever that it was a part of the environment that could be interacted with. There was no tutorial about it or in game tool tips, it was just there.
-  ![image](zordak4.jpg)
+![image](zordak4.jpg)
   Upon being able to move on with the game I found it to be really neat. There was alot of timing your jumps to get to a certain platform while also avoiding dangerous obstacles. 
-  ![image](zordak1.jpg)
+![image](zordak1.jpg)
   Which brings me to one of my complaints about the game. The only thing you are given to indicate your health is that the saturation starts taking on a more black and white tone the closer you get to your health becoming zero. I had no accurate way of telling how close I was to dying other than the colors i saw on my screen.
   So overall the game is a perfect representation of your typical metroidvania type game. Im a big fan of the exploration that is possible but at the same time the game is also linear enough for you to understand where you need to go next. The frames were incredibly smooth and the game ran extremely well. I was extremely pleased with this game.
 ![image](zordak5.jpg)
