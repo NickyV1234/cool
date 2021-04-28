@@ -1,3 +1,5 @@
+# WORKS AND PUBLICATIONS
+
 
 
 ### Publications
@@ -23,6 +25,9 @@ here is my digital art project that i worked on. for art 168.
 ### other side projects
 
 [here is the link to the corpus assignment](index5.md) [Here is the time mapper assignment](index6.md) , [here is a link to the frankenstein variorum assignment](variorum.md) [here is the game review assignment](index7.md)
+
+### Podcast I did for comm 270 where we talked about the voyager 1 space craft
+
 
 <iframe width="640" height="480" src="The Great Journey - Tales from Voyager 1 and The Golden Record (3).mp4" frameborder="0" allowfullscreen></iframe>
 
