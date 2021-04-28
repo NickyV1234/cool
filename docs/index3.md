@@ -24,6 +24,6 @@ here is my digital art project that i worked on. for art 168.
 
 [here is the link to the corpus assignment](index5.md) [Here is the time mapper assignment](index6.md) , [here is a link to the frankenstein variorum assignment](variorum.md) [here is the game review assignment](index7.md)
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/ymUxDt_mOxU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="The Great Journey - Tales from Voyager 1 and The Golden Record (3).mp4" frameborder="0" allowfullscreen></iframe>
 
 pages < [1](index.md) , [2](index2.md) , [3](index3.md) , [4](index4.md) >
