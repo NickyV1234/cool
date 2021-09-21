@@ -1,0 +1,17 @@
+start = xml
+xml = element xml {source, \text}
+source = element source {title, altTitle, author, pubPlace< publisher, date, note}
+
+
+title = element title {level}
+level = attribute level {"book"}
+altTitle = element altTitle {\text}
+author = element author {\text}
+pubPlace = element pubPlace {where, \text}
+where = attribute where {"NYC"}
+publisher = element publisher {\text}
+date = element date {when}
+when = attribute when {"1951"}
+note = element note {\text}
+
+\text = element \text {poem+}
